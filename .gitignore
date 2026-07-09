@@ -1,0 +1,42 @@
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE & Editor
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.fseventsd
+.TemporaryItems
+
+# Environment variables
+.env
+.env.local
+
+# Large dataset files (uncomment if needed)
+# *.json
+# raw JBB datasets/
+
+# Jupyter & IPython
+.ipynb_checkpoints/
+*.ipynb
